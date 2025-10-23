@@ -1,0 +1,5 @@
+{
+  "name": "PayChoice: Personal Payment Comparison",
+  "description": "An interactive web app for Neha and Mayur to compare their payment instruments and choose the best one for any transaction to maximize benefits. All data is hardcoded for a seamless front-end-only experience.",
+  "requestFramePermissions": []
+}
