@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Ryze",
+    "slug": "ryze-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F5F7FB"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F5F7FB"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+<svg width="420" height="900" viewBox="0 0 420 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="900" fill="#F5F7FB"/>
+
+  <!-- Header -->
+  <circle cx="42" cy="42" r="20" fill="#121726"/>
+  <text x="42" y="47" text-anchor="middle" font-size="12" font-family="Arial" fill="#FFF" font-weight="700">ET</text>
+  <text x="210" y="48" text-anchor="middle" font-size="28" font-family="Arial" fill="#111827" font-weight="700">Ryze</text>
+  <rect x="356" y="22" width="40" height="40" rx="12" fill="#E8EDF8"/>
+  <text x="376" y="47" text-anchor="middle" font-size="16" font-family="Arial" fill="#172136">⚙</text>
+
+  <!-- Product card -->
+  <rect x="16" y="82" width="388" height="230" rx="24" fill="#121726"/>
+  <text x="34" y="116" font-size="22" font-family="Arial" fill="#FFF" font-weight="700">Vault</text>
+  <text x="34" y="136" font-size="12" font-family="Arial" fill="#5BE7C4">Checking Account</text>
+  <text x="308" y="116" font-size="12" font-family="Arial" fill="#8C95A8">•••• 1408</text>
+  <text x="34" y="182" font-size="34" font-family="Arial" fill="#FFF" font-weight="700">$8,420.15</text>
+  <text x="34" y="204" font-size="12" font-family="Arial" fill="#9DA7BD">Balance</text>
+
+  <rect x="34" y="236" width="90" height="34" rx="10" fill="#20293D"/>
+  <text x="79" y="257" text-anchor="middle" font-size="12" font-family="Arial" fill="#F6F8FC">Add Money</text>
+  <rect x="132" y="236" width="70" height="34" rx="10" fill="#20293D"/>
+  <text x="167" y="257" text-anchor="middle" font-size="12" font-family="Arial" fill="#F6F8FC">Pay</text>
+  <rect x="210" y="236" width="74" height="34" rx="10" fill="#20293D"/>
+  <text x="247" y="257" text-anchor="middle" font-size="12" font-family="Arial" fill="#F6F8FC">More</text>
+
+  <!-- Merchants -->
+  <rect x="16" y="334" width="388" height="200" rx="18" fill="#FFF"/>
+  <text x="32" y="362" font-size="16" font-family="Arial" fill="#101827" font-weight="700">Top merchants (last 30 days)</text>
+
+  <text x="32" y="396" font-size="14" font-family="Arial" fill="#19212E" font-weight="700">Amazon</text>
+  <text x="32" y="412" font-size="12" font-family="Arial" fill="#7E889A">12 txns</text>
+  <text x="364" y="404" text-anchor="end" font-size="14" font-family="Arial" fill="#111827" font-weight="700">$900</text>
+
+  <text x="32" y="446" font-size="14" font-family="Arial" fill="#19212E" font-weight="700">Shell</text>
+  <text x="32" y="462" font-size="12" font-family="Arial" fill="#7E889A">9 txns</text>
+  <text x="364" y="454" text-anchor="end" font-size="14" font-family="Arial" fill="#111827" font-weight="700">$870</text>
+
+  <text x="32" y="496" font-size="14" font-family="Arial" fill="#19212E" font-weight="700">Starbucks</text>
+  <text x="32" y="512" font-size="12" font-family="Arial" fill="#7E889A">6 txns</text>
+  <text x="364" y="504" text-anchor="end" font-size="14" font-family="Arial" fill="#111827" font-weight="700">$600</text>
+
+  <!-- Transactions -->
+  <rect x="16" y="550" width="388" height="200" rx="18" fill="#FFF"/>
+  <text x="32" y="578" font-size="16" font-family="Arial" fill="#101827" font-weight="700">Recent activity</text>
+
+  <text x="32" y="612" font-size="14" font-family="Arial" fill="#1A2233" font-weight="700">Payment Received</text>
+  <text x="32" y="628" font-size="12" font-family="Arial" fill="#81899B">1m ago</text>
+  <text x="364" y="620" text-anchor="end" font-size="14" font-family="Arial" fill="#0F9D67" font-weight="700">+$450.00</text>
+
+  <text x="32" y="662" font-size="14" font-family="Arial" fill="#1A2233" font-weight="700">Cash Advance</text>
+  <text x="32" y="678" font-size="12" font-family="Arial" fill="#81899B">23m ago</text>
+  <text x="364" y="670" text-anchor="end" font-size="14" font-family="Arial" fill="#D14343" font-weight="700">-$150.00</text>
+
+  <text x="32" y="712" font-size="14" font-family="Arial" fill="#1A2233" font-weight="700">Card Payment</text>
+  <text x="32" y="728" font-size="12" font-family="Arial" fill="#81899B">2h ago</text>
+  <text x="364" y="720" text-anchor="end" font-size="14" font-family="Arial" fill="#D14343" font-weight="700">-$72.49</text>
+
+  <!-- Bottom nav -->
+  <rect x="16" y="796" width="388" height="80" rx="24" fill="#111827"/>
+  <text x="68" y="842" font-size="12" font-family="Arial" fill="#FFF" font-weight="700">Accounts</text>
+  <rect x="66" y="848" width="52" height="4" rx="2" fill="#4F8CFF"/>
+  <text x="162" y="842" font-size="12" font-family="Arial" fill="#ACB4C5" font-weight="700">Circle</text>
+  <text x="246" y="842" font-size="12" font-family="Arial" fill="#ACB4C5" font-weight="700">Transfer</text>
+  <text x="336" y="842" font-size="12" font-family="Arial" fill="#ACB4C5" font-weight="700">Pulse</text>
+</svg>
